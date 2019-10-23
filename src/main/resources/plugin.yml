@@ -1,0 +1,10 @@
+name: AntiX
+version: ${project.version}
+main: ml.bjorn.antix.AntiX
+api-version: 1.13
+authors: [Bjornskjald]
+description: fuck xray
+commands:
+  antix:
+    description: fuck xray
+    usage: /antix
